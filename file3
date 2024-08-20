@@ -1,0 +1,7 @@
+this is file3 content.
+second line.
+third line.
+<<<<<<< Updated upstream
+fourth line.
+=======
+>>>>>>> Stashed changes
